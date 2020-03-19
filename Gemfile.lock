@@ -217,6 +217,9 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    pixyll_ashawley (2.9.0)
+      jekyll (~> 3.3)
+      jekyll-paginate (~> 1.1)
     public_suffix (3.1.1)
     rack (1.6.13)
     rack-protection (1.5.5)
@@ -271,9 +274,10 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-feed (~> 0.12)
+  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  minima (~> 2.5)
+  pixyll_ashawley (~> 2.9)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

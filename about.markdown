@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Esse é só um blog normal feito por um universitário entediado. Não há garantias de que ele irá durar ou terá um bom conteúdo. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Irei tentar falar sobre as tecnologias que estou usando (Para o TCC ou só por curiosidade mesmo), do ponto de vista de um iniciante.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Enfim, esse não é um blog sobre tecnologia. É um blog sobre como é ser um iniciante tentando aprender a usar essas tecnologias. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+... Se quiser me seguir no [Twitter](https://twitter.com/p0rttgas) ou no [Github](https://github.com/calebefazzani) não tem problema só não espere nada demais.
